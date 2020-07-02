@@ -20,4 +20,4 @@ Notes for users:
 
 - If you notice any incorrect information in the deck, please contact me on Reddit at /user/AnkiJeopardyHelp. I will fix the error.
 
-If you would like to make a small donation to support the creation and updating of this deck, you can do so on Ko-Fi! https://ko-fi.com/ankiultimateeverything
+If you care to make a small donation to support my work on this shared deck, you can do so on Ko-Fi! https://ko-fi.com/ankiultimateeverything
