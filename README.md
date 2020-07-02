@@ -1,5 +1,5 @@
 # Anki_Ultimate_Everything
-BLUF: This project aims to provide instructive, high-quality, atomic, Anki flashcards which cover a myriad general knowledge topics. The Ultimate Everything Deck.
+BLUF: This project provides high-quality atomic Anki flashcards which cover a myriad general knowledge topics. The Ultimate Everything Deck.
 
 Hello! Connor here! I am a huge fan of the game show "Jeopardy!" and an avid user of the spaced repetition program Anki. After being inspired by the success of James Holzhauer, I resolved to study hard so that one day I could try competing on on "Jeopardy!" myself. I use Anki for my study goals, and I've spent hundreds of hours laboring over creating an ultimate high-quality Anki deck which covers a myriad general knowledge topics. The deck is far from comprehensive, but that's because creating a deck about everything is a perpetual work-in-progress! And this is a project on which I intend to continue making progress. At the time of publication, the Ultimate Everything Deck contains more than 20,000 high-quality flashcards, and that number increases every single day!
 
