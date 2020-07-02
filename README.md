@@ -7,17 +7,12 @@ For the first time, I am now sharing my creation (and my constant updates to it!
 
 While the overwhelming majority of the content in this deck is my own work, there are several shared decks made by other contributors which I incorporated parts of for my own Ultimate Everything Deck! In the interests of full disclosure and of giving credit to other amazing contributors wherever credit is due, those premade decks were:
 
-https://ankiweb.net/shared/info/2109889812 Ultimate Geography
-
-https://ankiweb.net/shared/info/1528423709 : Canadian Geography
-
-https://ankiweb.net/shared/info/201707643  : German Geography
-
-https://ankiweb.net/shared/info/685421036  : Great Works of Art
-
-https://ankiweb.net/shared/info/490209917  : Period Table Memory Pegs
-
-https://ankiweb.net/shared/info/1748074213 : Greek Alphabet
+https://ankiweb.net/shared/info/2109889812 - Ultimate Geography
+https://ankiweb.net/shared/info/1528423709 - Canadian Geography
+https://ankiweb.net/shared/info/201707643  - German Geography
+https://ankiweb.net/shared/info/685421036  - Great Works of Art
+https://ankiweb.net/shared/info/490209917  - Period Table Memory Pegs
+https://ankiweb.net/shared/info/1748074213 - Greek Alphabet
 
 Notes for users: 
 
