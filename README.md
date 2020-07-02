@@ -5,7 +5,7 @@ Hello! Connor here! I am a huge fan of the game show "Jeopardy!" and an avid use
 
 For the first time, I am now sharing my creation (and my constant updates to it!) with the Anki community. This deck was geared towards helping somebody prepare for the game show "Jeopardy!" But even if  you are just trying to improve your bar trivia skills, or you're trying to keep your mind sharp with lifelong learning, I know that you will find use in this powerful tool that I've spent so many hours to build and share. :)
 
-While the overwhelming majority of the content in this deck is my own work, there are several shared decks made by other contributors which I incorporated parts of for my own Ultimate Everything Deck! In the interests of full disclosure and of giving credit to other amazing contributors wherever credit is due, those premade decks were:
+While the overwhelming majority of the content in this deck is my own work, there are several shared decks made by other contributors which I partially-incorporated into my own Ultimate Everything Deck! In the interests of full disclosure and of giving credit to other amazing contributors wherever credit is due, those premade decks were:
 
 https://ankiweb.net/shared/info/2109889812 - Ultimate Geography
 https://ankiweb.net/shared/info/1528423709 - Canadian Geography
