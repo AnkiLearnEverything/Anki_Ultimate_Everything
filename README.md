@@ -18,7 +18,9 @@ While the overwhelming majority of the content in this deck is my own work, ther
 
 Notes for users: 
 
-- If there's a flaw with the Ultimate Everything Deck, it's that the deck is incompletely tagged. Some 10,000 cards deep, I decided that it was not an efficient use of my time to tag the deck (huge time sink for relataively little return on investment). I may change my mind on later and resume tagging again, but for now, several thousand cards in the deck are untagged, and all expansion cards I plan to release in the future will likely be untagged.
+- If there's a flaw with the Ultimate Everything Deck, it's that the deck isn't completely tagged. Some 10,000 cards deep into this project, I decided that it was not an efficient use of my time to tag the deck (huge time sink for relataively little return on investment). I may change my mind on later and resume tagging again, but for now, several thousand cards in the deck are untagged, and all expansion cards I plan to release in the future will likely be untagged. Some tags are quite strong (for example "UltimateGeographyRemastered" + "Mythology" + "StateQuarters"). But for the most part, the tags in the deck are imperfectly handled.
+
+- I got better and better at making cards as time went on. Some of the first topics I tackled (for example, Greek mythology or the American Revoltuion) contain a few redundant or suboptimal cards. I am constantly pruning my imperfect old cards whenever they pop up in my reviews.
 
 - I made tens of thousands of cards for this deck, and it's possible I got something wrong somewhere in the deck. If you notice any incorrect information in the deck, please contact me on Reddit at /user/AnkiJeopardyHelp. I will fix the error!
 
