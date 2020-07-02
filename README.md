@@ -16,7 +16,7 @@ https://ankiweb.net/shared/info/1748074213 - Greek Alphabet
 
 Notes for users: 
 
-- If there's a flaw with the Ultimate Everything Deck, it's that the deck is incompletely tagged. I recently decided that it was not an efficient use of my time to tag the deck (huge time sink for relataively little return on investment). I may change my mind on this again later and resume tagging, but for now, several thousand cards in the deck are untagged, and all expansion cards I plan to release in the future will likely be untagged.
+- If there's a flaw with the Ultimate Everything Deck, it's that the deck is incompletely tagged. I recently decided that it was not an efficient use of my time to tag the deck (huge time sink for relataively little return on investment). I may change my mind on later and resume tagging again, but for now, several thousand cards in the deck are untagged, and all expansion cards I plan to release in the future will likely be untagged.
 
 - If you notice any incorrect information in the deck, please contact me on Reddit at /user/AnkiJeopardyHelp. I will fix the error.
 
