@@ -13,6 +13,7 @@ https://ankiweb.net/shared/info/201707643  - German Geography
 https://ankiweb.net/shared/info/685421036  - Great Works of Art
 https://ankiweb.net/shared/info/490209917  - Period Table Memory Pegs
 https://ankiweb.net/shared/info/1748074213 - Greek Alphabet
+https://ankiweb.net/shared/info/2532732904 - ASL Fingerspelling
 
 Notes for users: 
 
